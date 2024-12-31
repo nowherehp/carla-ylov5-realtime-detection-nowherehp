@@ -1,0 +1,39 @@
+audi a2: 61.1in
+Audi ETron: 55.5in
+Audi TT: 53.0in
+BMW GranTourer: 57.5in
+Chevrolet Impala: 57.1in
+Citroen C3: 58.7in
+Dodge Charger 2020: cannot get it
+Dodge Police Charger: 58.2in
+Ford  Crown: 56.7in
+Ford  Mustang: cannot get it
+Jeep  Wrangler Rubicon: 70.9in
+Lincoln  MKZ 2017: 57.2in
+Lincoln  MKZ 2020: 57.2in
+Mercedes  Coupe: cannot get it
+Mercedes  Coupe 2020: 55.6in
+Micro Microlino: 59.1in
+Mini Cooper S: 53.0in
+Mini Cooper S 2021: 55.9in
+Nissan Micra: 54.9in
+Nissan Patrol: 67.7in
+Nissan Patrol 2021: 67.7in
+Seat Leon: 56.7in
+Tesla  Model 3: 56.8in
+Toyota  Prius: 56.3in
+CARLA Motors CarlaCola: cannot get it
+European HGV (cab-over-engine type): cannot get it
+Firetruck: cannot get it
+Tesla  Cybertruck: 70.7in
+Mercedes  Sprinter: 95.9in
+Volkswagen T2: 76.4in
+Volkswagen  T2 2021: 76.4in
+Mitsubishi  Fusorosa: cannot get it
+Harley Davidson Low Rider: cannot get it
+Kawasaki  Ninja: 32.5in
+Vespa ZX 125: cannot get it
+Yamaha YZF: cannot get it
+BH Crossbike: cannot get it
+Diamondback  Century: cannot get it
+Gazelle Omafiets: cannot get it

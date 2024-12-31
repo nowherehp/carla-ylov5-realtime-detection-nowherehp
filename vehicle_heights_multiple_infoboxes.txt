@@ -1,0 +1,39 @@
+audi a2: 1,553 mm (61.1 in)
+Audi ETron: 1,410 mm (55.5 in)
+Audi TT: 1,346 mm (53.0 in)
+BMW GranTourer: 1,460 mm (57.5 in)
+Chevrolet Impala: 1,450 mm (57.1 in)[12]
+Citroen C3: 1,490 mm (58.7 in)
+Dodge Charger 2020: cannot get it
+Dodge Police Charger: 58.2 in (1,478.3 mm)SRT8: 57.7 in (1,466 mm)
+Ford  Crown: 1992–94: 56.7 in (1,440 mm)1995–97: 56.8 in (1,443 mm)
+Ford  Mustang: cannot get it
+Jeep  Wrangler Rubicon: 70.9 in (1,801 mm)-72.8 in (1,849 mm)
+Lincoln  MKZ 2017: 2006:  57.2 in (1,453 mm)  2007–09:  57.1 in (1,450 mm) 2010–12:  56.9 in (1,445 mm) 2011–12 Hybrid:  56.8 in (1,443 mm)
+Lincoln  MKZ 2020: 2006:  57.2 in (1,453 mm)  2007–09:  57.1 in (1,450 mm) 2010–12:  56.9 in (1,445 mm) 2011–12 Hybrid:  56.8 in (1,443 mm)
+Mercedes  Coupe: cannot get it
+Mercedes  Coupe 2020: 1,411 mm (55.6 in)
+Micro Microlino: 1,501 mm (59.1 in)
+Mini Cooper S: 1,346 mm (53.0 in)
+Mini Cooper S 2021: 2001–04 Base: 1,420 mm (55.9 in)2001–04 S: 1,427 mm (56.2 in)2005–06 Base: 1,407 mm (55.4 in)2005–06 Cooper S: 1,417 mm (55.8 in)Convertible: 1,410 mm (55.5 in)
+Nissan Micra: 1,395 mm (54.9 in)
+Nissan Patrol: 1,720 mm (67.7 in)
+Nissan Patrol 2021: 1,720 mm (67.7 in)
+Seat Leon: 1,439 mm (56.7 in)
+Tesla  Model 3: 56.8 in (1,443 mm) (2017–2023)56.7 in (1,441 mm) (2023–present)[4]
+Toyota  Prius: 1,420–1,430 mm (55.9–56.3 in)
+CARLA Motors CarlaCola: cannot get it
+European HGV (cab-over-engine type): cannot get it
+Firetruck: cannot get it
+Tesla  Cybertruck: 70.7 in (1,796 mm)[3]
+Mercedes  Sprinter: 2,435 mm (95.9 in) - 3,005 mm (118.3 in) [12]
+Volkswagen T2: 1,940 mm (76.4 in)
+Volkswagen  T2 2021: 1,940 mm (76.4 in)
+Mitsubishi  Fusorosa: cannot get it
+Harley Davidson Low Rider: cannot get it
+Kawasaki  Ninja: 32.5 in (830 mm) (H2)830 mm (32.7 in) (H2R)
+Vespa ZX 125: cannot get it
+Yamaha YZF: cannot get it
+BH Crossbike: cannot get it
+Diamondback  Century: cannot get it
+Gazelle Omafiets: cannot get it
