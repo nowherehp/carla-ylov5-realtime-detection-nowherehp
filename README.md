@@ -12,6 +12,9 @@ heights of the each car as the base measurment to calculate the real time distan
 ![image](https://github.com/user-attachments/assets/bb6cc952-cabe-4e36-b19c-615a1087ce62)
 
 Finally, the real time detection, every 100ms
+
+
+
 ![image](https://github.com/user-attachments/assets/18093f08-c341-434f-8c67-0aec85aec5ad)
 ![image](https://github.com/user-attachments/assets/731f7471-ca87-49c4-9f74-155bf211a982)
 
