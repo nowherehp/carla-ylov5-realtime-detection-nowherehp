@@ -2,6 +2,7 @@ this project aiming for real-time object detection and real time car distance me
 
 Logics of the project
 ![image](https://github.com/user-attachments/assets/4758ca2a-56c5-4120-b75e-fa2462b9e600)
+
 using web scraper and a automatic pics capture script to get pics training yolov5.
 
 using simple distance algorithm to calculate the focal length of the rbg cam. using the
